@@ -18,9 +18,10 @@ insightboard-frontend/.vscode/
 Thumbs.db
 desktop.ini
 
-# ===== Environment =====
+# ===== Environment & Secrets =====
 .env
 *.env.local
+insightboard-backend/src/main/resources/application.properties
 
 # ===== IDE =====
 .vscode/
