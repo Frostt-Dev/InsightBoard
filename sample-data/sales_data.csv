@@ -1,0 +1,41 @@
+Product,Category,Region,Sales,Quantity,Profit,Discount,Month
+Laptop,Electronics,North,1200,5,360,0.1,January
+Smartphone,Electronics,South,800,12,240,0.05,January
+Desk Chair,Furniture,East,350,8,105,0.15,January
+Bookshelf,Furniture,West,200,3,60,0.2,January
+Headphones,Electronics,North,150,20,45,0.1,January
+Coffee Table,Furniture,South,400,4,120,0.1,February
+Laptop,Electronics,East,1250,7,375,0.08,February
+Tablet,Electronics,West,600,10,180,0.12,February
+Office Desk,Furniture,North,500,6,150,0.1,February
+Smartphone,Electronics,South,850,15,255,0.05,February
+Monitor,Electronics,East,450,9,135,0.1,March
+Sofa,Furniture,West,900,2,270,0.15,March
+Laptop,Electronics,North,1300,8,390,0.07,March
+Keyboard,Electronics,South,75,25,22.5,0.2,March
+Dining Table,Furniture,East,600,3,180,0.1,March
+Smartphone,Electronics,West,780,14,234,0.05,March
+Desk Lamp,Furniture,North,50,30,15,0.25,April
+Laptop,Electronics,South,1150,6,345,0.1,April
+Printer,Electronics,East,300,5,90,0.15,April
+Wardrobe,Furniture,West,700,2,210,0.1,April
+Headphones,Electronics,North,160,22,48,0.08,April
+Tablet,Electronics,South,580,11,174,0.12,May
+Bookshelf,Furniture,East,220,4,66,0.18,May
+Laptop,Electronics,West,1280,9,384,0.06,May
+Coffee Table,Furniture,North,380,5,114,0.12,May
+Monitor,Electronics,South,470,7,141,0.1,May
+Smartphone,Electronics,East,820,13,246,0.05,June
+Sofa,Furniture,West,950,3,285,0.1,June
+Office Desk,Furniture,North,520,7,156,0.08,June
+Laptop,Electronics,South,1350,10,405,0.05,June
+Keyboard,Electronics,East,80,28,24,0.2,June
+Desk Chair,Furniture,West,370,9,111,0.12,June
+Tablet,Electronics,North,620,12,186,0.1,July
+Printer,Electronics,South,320,6,96,0.12,July
+Dining Table,Furniture,East,580,4,174,0.1,July
+Smartphone,Electronics,West,810,16,243,0.05,July
+Desk Lamp,Furniture,North,55,35,16.5,0.22,July
+Laptop,Electronics,East,1220,7,366,0.08,August
+Wardrobe,Furniture,South,720,3,216,0.1,August
+Headphones,Electronics,West,170,24,51,0.07,August

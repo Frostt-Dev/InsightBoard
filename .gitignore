@@ -1,0 +1,39 @@
+# ===== Java / Maven =====
+insightboard-backend/target/
+*.class
+*.jar
+*.war
+*.log
+*.iml
+.idea/
+*.swp
+
+# ===== Node / Frontend =====
+insightboard-frontend/node_modules/
+insightboard-frontend/dist/
+insightboard-frontend/.vscode/
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Environment =====
+.env
+*.env.local
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ===== Gemini / Antigravity =====
+.gemini/
+.antigravityignore
+
+# ===== Test scripts =====
+test_gemini.ps1

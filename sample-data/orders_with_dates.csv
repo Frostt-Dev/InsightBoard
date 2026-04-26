@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer_Name,Product,Sales,Quantity
+Ord_001,2023-01-15,Alice,Laptop,1200,1
+Ord_002,2023-02-10,Bob,Mouse,25,2
+Ord_003,2023-03-05,Charlie,Keyboard,45,1
+Ord_004,2023-03-22,Diana,Monitor,300,1
+Ord_005,2023-04-12,Evan,Desk Chair,150,2
+Ord_006,2023-05-18,Fiona,Laptop,1200,1
+Ord_007,2023-05-25,George,Mouse,25,3
+Ord_008,2023-06-08,Hannah,Webcam,60,1
+Ord_009,2023-07-14,Ian,Headphones,80,2
+Ord_010,2023-08-03,Jane,Monitor,300,2
+Ord_011,2023-09-12,Kevin,Keyboard,45,1
+Ord_012,2023-10-05,Laura,Laptop,1200,1
+Ord_013,2023-11-20,Mike,Desk Chair,150,1
+Ord_014,2023-12-15,Nina,Mouse,25,1
+Ord_015,2024-01-10,Oscar,Webcam,60,2
+Ord_016,2024-02-22,Paul,Headphones,80,1
+Ord_017,2024-03-12,Quinn,Laptop,1200,2
+Ord_018,2024-04-05,Rachel,Monitor,300,1
+Ord_019,2024-05-18,Sam,Keyboard,45,2
+Ord_020,2024-06-30,Tina,Desk Chair,150,4
